@@ -1,0 +1,4 @@
+2019-04-26 16:29:47,622 - root - INFO - ############################### START ###############################
+2019-04-26 16:29:52,568 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.08446288108825684 seconds
+2019-04-26 16:29:52,928 - root - INFO - FAIL    Unable to load http://www.cmread.comhttp://www.douyu.com/323876, Spend 0.35700082778930664 seconds
+2019-04-26 16:29:53,874 - root - INFO - ###############################  End  ###############################

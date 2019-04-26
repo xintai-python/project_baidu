@@ -1,0 +1,5 @@
+2019-04-26 16:46:50,124 - root - INFO - ############################### START ###############################
+2019-04-26 16:46:54,971 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.030015945434570312 seconds
+2019-04-26 16:46:55,694 - root - INFO - SUCCESS    Navigated to http://www.douyu.com/323876, Spend 0.7227013111114502 seconds
+2019-04-26 16:46:58,096 - root - INFO - SUCCESS    Clicked element: <class name->UnLogin-icon>, Spend 0.40070462226867676 seconds
+2019-04-26 16:47:00,281 - root - INFO - ###############################  End  ###############################

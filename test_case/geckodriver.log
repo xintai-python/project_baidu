@@ -1,0 +1,2211 @@
+1556267189249	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.1DtWXrYaAY6E"
+1556267192399	Marionette	INFO	Listening on port 57777
+1556267192432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556267192454	Marionette	DEBUG	[4294967297] Frame script loaded
+1556267192458	Marionette	DEBUG	[4294967297] Frame script registered
+1556267192522	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1556267192832	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1556267193184	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://wap.cmread.com/r/p/index.jsp
+1556267193276	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://wap.cmread.com/r/p/index.jsp
+1556267201598	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://wap.cmread.com/r/p/index.jsp
+1556267201817	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://wap.cmread.com/r/p/index.jsp
+1556267201818	Marionette	DEBUG	[4294967297] Received DOM event unload for http://wap.cmread.com/r/p/index.jsp
+1556267201892	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://wap.cmread.com/r/p/index.jsp
+1556267202059	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://wap.cmread.com/r/p/index.jsp
+[Parent 12472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Child 5824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/dipc_channel_win.cc, line 346
+/build/src/ipc/ch[Child 5824, Chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11160, Chrome_ChildThre[Parent 12472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15288, Chrome_ChildThrea1556267206562	Marionette	INFO	Stopped listening on port 57777
+[GPU 10260, Chrome_ChildThread] WARNING: pipe 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556267247674	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.2HvKPx70IVUX"
+1556267248897	Marionette	INFO	Listening on port 57845
+1556267249335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556267249376	Marionette	DEBUG	[6442450945] Frame script loaded
+1556267249378	Marionette	DEBUG	[6442450945] Frame script registered
+1556267249417	Marionette	INFO	Stopped listening on port 57845
+1556267249441	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Child 20404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20404[Parent 6632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5124, [Parent 6632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16776, ChJavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[GPU 17968, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556267390714	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.AkufvcQ17mVh"
+1556267391925	Marionette	INFO	Listening on port 57938
+1556267392388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556267392483	Marionette	DEBUG	[6442450945] Frame script loaded
+1556267392486	Marionette	DEBUG	[6442450945] Frame script registered
+1556267392578	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267392870	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267392889	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1556267392925	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=http%3A//www.cmread.comhttp//www.douyu.com/323876&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.cmread.comhttp%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1556267393057	Marionette	INFO	Stopped listening on port 57938
+1556267393076	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Child 6256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6256, Chrome_Ch[Child 6140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[Parent 14600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7032, CJavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[GPU 12900, Chrome_ChildThread] WARN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556267460948	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.l0kh6oRfspnx"
+1556267462131	Marionette	INFO	Listening on port 57994
+1556267462607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556267462663	Marionette	DEBUG	[6442450945] Frame script loaded
+1556267462665	Marionette	DEBUG	[6442450945] Frame script registered
+1556267462723	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267462732	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267462733	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1556267462753	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=http%3A//www.cmread.comhttp//www.douyu.com/323876&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.cmread.comhttp%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1556267462854	Marionette	INFO	Stopped listening on port 57994
+1556267462876	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 14364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1876, Chrome_ChildTh[Child 14924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14924,[Parent 14364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11528, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556267536779	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.Id97G7jED4KF"
+1556267537995	Marionette	INFO	Listening on port 58052
+1556267538449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556267538520	Marionette	DEBUG	[6442450945] Frame script loaded
+1556267538523	Marionette	DEBUG	[6442450945] Frame script registered
+1556267538583	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267538747	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267538750	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1556267538782	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=http%3A//www.douyu.com323876/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.douyu.com323876%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1556267538883	Marionette	INFO	Stopped listening on port 58052
+1556267538904	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 15892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16836, Chrome_[Parent 15892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1340, ChrJavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[GPU 16372, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556267576758	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.SUDg8xVQcXIg"
+1556267578046	Marionette	INFO	Listening on port 58093
+1556267578446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556267578527	Marionette	DEBUG	[6442450945] Frame script loaded
+1556267578530	Marionette	DEBUG	[6442450945] Frame script registered
+1556267578591	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267578601	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267578602	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1556267578630	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=http%3A//www.douyu.com323876/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.douyu.com323876%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1556267578721	Marionette	INFO	Stopped listening on port 58093
+1556267578743	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Child 9084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9084, C[Parent 15896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20256, Chr[Parent 15896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8728, Chrome_ChildT[GPU 7772, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556267756500	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.rCxE0G1t7bwv"
+1556267757727	Marionette	INFO	Listening on port 58195
+1556267758174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556267758233	Marionette	DEBUG	[6442450945] Frame script loaded
+1556267758235	Marionette	DEBUG	[6442450945] Frame script registered
+1556267758273	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267758278	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267758279	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1556267758292	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=http%3A//www.douyu.com323876/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.douyu.com323876%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1556267758376	Marionette	INFO	Stopped listening on port 58195
+1556267758397	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Child 4500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 450[Parent 14324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10548, Ch[Parent 14324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18016, ChrJavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[GPU 4276, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556267805998	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.pQB9V0Jys8UK"
+1556267807284	Marionette	INFO	Listening on port 58280
+1556267807688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556267807742	Marionette	DEBUG	[6442450945] Frame script loaded
+1556267807744	Marionette	DEBUG	[6442450945] Frame script registered
+1556267807789	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267808042	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1556267808437	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.douyu.com/323876
+1556267808441	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.douyu.com/323876
+1556267810769	Marionette	INFO	Stopped listening on port 58280
+[Child 4224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4224, Chrome_ChildIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 2756, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 2756, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 2756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/[Parent 9368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14356, Chr[GPU 9388, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556267850962	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.fXz0hBtCovJT"
+1556267852222	Marionette	INFO	Listening on port 58390
+1556267852624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556267852675	Marionette	DEBUG	[6442450945] Frame script loaded
+1556267852677	Marionette	DEBUG	[6442450945] Frame script registered
+1556267852711	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556267852941	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1556267853306	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.douyu.com/323876
+1556267853307	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.douyu.com/323876
+1556267855752	Marionette	INFO	Stopped listening on port 58390
+[Parent 13936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/lib/playerSDK-room_32aa22f.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 2648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 2648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch[Parent 13936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14196, Chrome_ChildThre[GPU 18468, Chrome_ChildThread] 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556268282005	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.NxIySsxMt4uB"
+1556268283239	Marionette	INFO	Listening on port 58862
+1556268283688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556268283751	Marionette	DEBUG	[6442450945] Frame script loaded
+1556268283752	Marionette	DEBUG	[6442450945] Frame script registered
+1556268283796	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556268284162	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1556268284570	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.douyu.com/323876
+1556268284573	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.douyu.com/323876
+1556268286949	Marionette	INFO	Stopped listening on port 58862
+[Parent 14752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10996, IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 14752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5836, Chrome_ChildThread] WAR[GPU 9848, Chrome_ChildThread] WARNING: pip
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556268328509	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.mmtPbvPaQ6nZ"
+1556268329728	Marionette	INFO	Listening on port 58986
+1556268330159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556268330239	Marionette	DEBUG	[6442450945] Frame script loaded
+1556268330242	Marionette	DEBUG	[6442450945] Frame script registered
+1556268330308	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556268330579	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1556268330993	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.douyu.com/323876
+1556268331003	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.douyu.com/323876
+1556268333354	Marionette	INFO	Stopped listening on port 58986
+[Parent 10756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ChildIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10756, Gecko_IOThreadJav] aWARNING: Scrpipe error: ipt error: https://sta-op.do109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+uyucdn.cn/front-publish/live-master/js/room/common_ef1b0d1.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/lib/playerSDK-room_32aa22f.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 11604, Chrome_ChildT
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+hread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ld
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 11604, Chrome_ChildThread] WARNING
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16724, Chrome_ChildThread] WARNING: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556268413207	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.11wT6k1cDMai"
+1556268414450	Marionette	INFO	Listening on port 59111
+1556268414875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556268414939	Marionette	DEBUG	[6442450945] Frame script loaded
+1556268414941	Marionette	DEBUG	[6442450945] Frame script registered
+1556268414980	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1556268415246	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1556268415657	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.douyu.com/323876
+1556268415692	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.douyu.com/323876
+1556268418094	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1556268418099	Marionette	INFO	Stopped listening on port 59111
+[Parent 12896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17840IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 6984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6984, Chrome_ChildThread] WARNING: p[Parent 12896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1696, Chr[GPU 20108, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556268511343	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.zfqKlxCrOqrV"
+1556268548416	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.WXgzXYTEEEol"
+1556268549058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556268549058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556268549058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556268550151	Marionette	INFO	Listening on port 59451
+1556268550383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: , line 0: InvalidSessionDescriptionError: Failed to parse SDP: SDP Parse Error on line 6:  No webrtc-datachannel token in m= media line, parse failed.
+
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+1556268568819	Marionette	INFO	Stopped listening on port 59451
+[Child 15680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+[Child 15680, Chrome_C
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332IPDL protocol error: Handler returned error code!
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 612[Parent 8912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13632, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556268624777	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.EqytkwpgHhtB"
+1556268625105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556268625105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556268625105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556268626024	Marionette	INFO	Listening on port 59593
+1556268626436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 3: TypeError: y.verify.instance.getResult is not a function
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 1: Error: 网络错误
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: InvalidSessionDescriptionError: Failed to parse SDP: SDP Parse Error on line 6:  No webrtc-datachannel token in m= media line, parse failed.
+
+JavaScript error: , line 0: InvalidSessionDescriptionError: Failed to parse SDP: SDP Parse Error on line 6:  No webrtc-datachannel token in m= media line, parse failed.
+
+1556268634918	Marionette	INFO	Stopped listening on port 59593
+[Child 19088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19088, IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 19016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17316, Chrome_ChildThread] WARNING: pipe error: 109:[Parent 19016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18448, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556268811592	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.zUVNCU1solNl"
+1556268811926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556268811926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556268811926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556268812868	Marionette	INFO	Listening on port 59788
+1556268813253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 3: TypeError: y.verify.instance.getResult is not a function
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 1: Error: 网络错误
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+1556268821371	Marionette	INFO	Stopped listening on port 59788
+JavaScript error: , line 0: InvalidSessionDescriptionError: Failed to parse SDP: SDP Parse Error on line 6:  No webrtc-datachannel token in m= media line, parse failed.
+
+JavaScript error: , line 0: InvalidSessionDescriptionError: Failed to parse SDP: SDP Parse Error on line 6:  No webrtc-datachannel token in m= media line, parse failed.
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 7884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7884, CIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 14956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109[Parent 14956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19708
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2584, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556269540975	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.WToLqPQsQtfn"
+1556269541318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556269541319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556269541319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556269542336	Marionette	INFO	Listening on port 60332
+1556269542635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+1556269550543	Marionette	INFO	Stopped listening on port 60332
+[Child 18764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18764, ChroIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16584, Chrome_ChildThread] WARNING: p[Parent 8828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15060,[GPU 15668, Chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556269873810	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.Xe0DcS0RwAMR"
+1556269874134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556269874134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556269874135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556269875114	Marionette	INFO	Listening on port 60666
+1556269875470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 3: TypeError: y.verify.instance.getResult is not a function
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 1: Error: 网络错误
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: InvalidSessionDescriptionError: Failed to parse SDP: SDP Parse Error on line 6:  No webrtc-datachannel token in m= media line, parse failed.
+
+JavaScript error: , line 0: InvalidSessionDescriptionError: Failed to parse SDP: SDP Parse Error on line 6:  No webrtc-datachannel token in m= media line, parse failed.
+
+1556269885847	Marionette	INFO	Stopped listening on port 60666
+[Child 17232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17232, Chrome_ChiIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 11624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 11624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14204[GPU 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8108, Chrome_ChildThread] WARNING:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556270039626	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.fhtR0vfXzorv"
+1556270039978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556270039978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556270039979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556270040940	Marionette	INFO	Listening on port 60810
+1556270041301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 3: TypeError: y.verify.instance.getResult is not a function
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 1: Error: 网络错误
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+1556270049697	Marionette	INFO	Stopped listening on port 60810
+[Parent 18272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 18272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5040, Chrome_ChildThread] WARNING: pipe error: 109[Parent 18272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9004,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6244, Chrome_ChildThread] WARNING:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556270108818	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.mtUZTHCXu6lH"
+1556270109248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556270109249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556270109249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556270110244	Marionette	INFO	Listening on port 60937
+1556270110484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 3: TypeError: y.verify.instance.getResult is not a function
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 1: Error: 网络错误
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: InvalidSessionDescriptionError: Failed to parse SDP: SDP Parse Error on line 6:  No webrtc-datachannel token in m= media line, parse failed.
+
+1556270118885	Marionette	INFO	Stopped listening on port 60937
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 19096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19096, Chrome_ChildThreadIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 18572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/[Parent 18572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 195
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14952, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556270163585	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.WICp3AQ7z1bH"
+1556270163905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556270163905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556270163905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556270164849	Marionette	INFO	Listening on port 61065
+1556270165244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 3: TypeError: y.verify.instance.getResult is not a function
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 1: Error: 网络错误
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+1556270173326	Marionette	INFO	Stopped listening on port 61065
+[Child 18160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18160, Chrome_ChildThread] WARNING: pIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Ch[Parent 13136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20224, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2424, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556270288169	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.43oeXVL1Ix03"
+1556270289107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556270289107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556270289108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556270290157	Marionette	INFO	Listening on port 61465
+1556270290335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+1556270295768	Marionette	INFO	Stopped listening on port 61465
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7676, IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 7512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 5744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+common/
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5744, Chrome_ChildThread] WARNING[Parent 7512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4508, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18612, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556270330372	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.dr1nCDJfgKhE"
+1556270330703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556270330703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556270330704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556270331657	Marionette	INFO	Listening on port 61583
+1556270332048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 3: TypeError: y.verify.instance.getResult is not a function
+JavaScript error: https://shark.douyucdn.cn/app/douyu-passport/js/page/iframe/app-login-all.js?v=v20190307, line 1: Error: 网络错误
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+1556270342661	Marionette	INFO	Stopped listening on port 61583
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 14136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14136, Chrome_ChildThreIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9296, Chrome_ChildThread] WARNING: pipe erro[Parent 772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16220
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11072, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556270362910	mozrunner::runner	INFO	Running command: "D:\\软件安装位置\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\阿昆\\AppData\\Local\\Temp\\rust_mozprofile.5jF1thRncUv8"
+1556270363217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556270363218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556270363218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556270364202	Marionette	INFO	Listening on port 61704
+1556270364545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sta-op.douyucdn.cn/front-publish/live-master/js/room/common-pre_7b946a7.js, line 1: TypeError: The expression cannot be converted to return the specified type.
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.fengkongcloud.com/fpv2.js, line 1: unreachable code after return statement
+1556270370894	Marionette	INFO	Stopped listening on port 61704
+[Child 6476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6476, Chrome_ChildThreIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 17876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Child 14408, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 14408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/[Parent 17876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11184, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12404, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

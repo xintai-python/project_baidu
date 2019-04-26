@@ -1,0 +1,4 @@
+2019-04-26 16:32:53,672 - root - INFO - ############################### START ###############################
+2019-04-26 16:32:58,572 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.04164910316467285 seconds
+2019-04-26 16:32:58,633 - root - INFO - FAIL    Unable to load http://www.douyu.com323876, Spend 0.05002570152282715 seconds
+2019-04-26 16:32:59,557 - root - INFO - ###############################  End  ###############################

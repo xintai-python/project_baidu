@@ -1,0 +1,7 @@
+2019-04-26 16:26:25,888 - root - INFO - ############################### START ###############################
+2019-04-26 16:26:32,491 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.030015230178833008 seconds
+2019-04-26 16:26:33,280 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/u/tologin.do?preUrl=http%3A%2F%2Fwww.cmread.com%2Fu%2Findex, Spend 0.7885973453521729 seconds
+2019-04-26 16:26:41,502 - root - INFO - FAIL    Unable switch to frame element: <xpath->//iframe[contains(@src,'https://wap.cmread.com/sso/auth?e_p=1&response_type=token')]>, Spend 8.221616983413696 seconds
+2019-04-26 16:26:42,064 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/u/tologin.do?preUrl=http%3A%2F%2Fwww.cmread.com%2Fu%2Findex, Spend 0.4723649024963379 seconds
+2019-04-26 16:26:47,359 - root - INFO - FAIL    Unable switch to frame element: <xpath->//iframe[contains(@src,'https://wap.cmread.com/sso/auth?e_p=1&response_type=token')]>, Spend 5.294264793395996 seconds
+2019-04-26 16:26:47,377 - root - INFO - ###############################  End  ###############################

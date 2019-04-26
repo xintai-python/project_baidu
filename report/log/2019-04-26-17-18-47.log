@@ -1,0 +1,11 @@
+2019-04-26 17:18:47,279 - root - INFO - ############################### START ###############################
+2019-04-26 17:18:52,401 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2662365436553955 seconds
+2019-04-26 17:18:53,112 - root - INFO - SUCCESS    Navigated to http://www.douyu.com/323876, Spend 0.7110741138458252 seconds
+2019-04-26 17:18:56,106 - root - INFO - SUCCESS    Clicked element: <class name->UnLogin-icon>, Spend 2.992258071899414 seconds
+2019-04-26 17:18:56,339 - root - INFO - SUCCESS    Switch to frame element: <xpath->//*[@id="login-passport-frame"]>, Spend 0.23061227798461914 seconds
+2019-04-26 17:18:57,190 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="loginbox"]/div[2]/div[2]/div[3]/div/span[2]>, Spend 0.8497612476348877 seconds
+2019-04-26 17:18:57,221 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="loginbox"]/div[3]/div[2]/div[2]/form/div[1]/div/input> content: 13645712660, Spend 0.030579805374145508 seconds
+2019-04-26 17:18:57,248 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="loginbox"]/div[3]/div[2]/div[2]/form/div[3]/input[1]> content: lyk.2353, Spend 0.025072574615478516 seconds
+2019-04-26 17:19:00,606 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="loginbox"]/div[3]/div[2]/div[2]/form/div[6]/input>, Spend 3.358386754989624 seconds
+2019-04-26 17:19:02,659 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\project_baidu\report\image\1.jpg, Spend 0.0416102409362793 seconds
+2019-04-26 17:19:06,733 - root - INFO - ###############################  End  ###############################

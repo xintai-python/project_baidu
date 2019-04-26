@@ -1,0 +1,10 @@
+2019-04-26 16:53:28,490 - root - INFO - ############################### START ###############################
+2019-04-26 16:53:33,592 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2774224281311035 seconds
+2019-04-26 16:53:34,349 - root - INFO - SUCCESS    Navigated to http://www.douyu.com/323876, Spend 0.7559630870819092 seconds
+2019-04-26 16:53:36,737 - root - INFO - SUCCESS    Clicked element: <class name->UnLogin-icon>, Spend 2.3868868350982666 seconds
+2019-04-26 16:53:36,929 - root - INFO - SUCCESS    Switch to frame element: <xpath->//*[@id="login-passport-frame"]>, Spend 0.1910099983215332 seconds
+2019-04-26 16:53:37,732 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="loginbox"]/div[2]/div[2]/div[3]/div/span[2]>, Spend 0.8006763458251953 seconds
+2019-04-26 16:53:37,764 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="loginbox"]/div[3]/div[2]/div[2]/form/div[1]/div/input> content: 13645712660, Spend 0.03158235549926758 seconds
+2019-04-26 16:53:37,793 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="loginbox"]/div[3]/div[2]/div[2]/form/div[3]/input[1]> content: lyk.2353, Spend 0.02707219123840332 seconds
+2019-04-26 16:53:41,365 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="loginbox"]/div[3]/div[2]/div[2]/form/div[6]/input>, Spend 3.572300434112549 seconds
+2019-04-26 16:53:44,490 - root - INFO - ###############################  End  ###############################
